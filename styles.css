@@ -101,6 +101,14 @@
     border-radius: 10px;
 }
 
+.modal-text {
+    width: 448px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
 .all-five-modal {
     display: flex;
     flex-direction: column;
